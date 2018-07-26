@@ -1,0 +1,7 @@
+#Mon Jul 23 15:55:28 BDT 2018
+base.0=C\:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4a717ee1348f3c9791e27045f95545bc463487f3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_feb7367273b4151bfbeb0bcdb734ed6047cdf08d\\classes.dex
+base.1=C\:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_feb7367273b4151bfbeb0bcdb734ed6047cdf08d
+file.0=C\:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4a717ee1348f3c9791e27045f95545bc463487f3\\classes.dex

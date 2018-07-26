@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\usermenu.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\src\\main\\res\\menu\\usermenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\driver_menu.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\src\\main\\res\\menu\\driver_menu.xml"
+    }
+]

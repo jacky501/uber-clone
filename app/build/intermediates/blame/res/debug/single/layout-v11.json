@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\3d9ecf7cf65cd74c686bf53c587210e483563a9a\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\2105d55098c136c244be138e3602b02f55a604d3\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\2105d55098c136c244be138e3602b02f55a604d3\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\2105d55098c136c244be138e3602b02f55a604d3\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\School\\uber clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Jacky\\.android\\build-cache\\2105d55098c136c244be138e3602b02f55a604d3\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    }
+]

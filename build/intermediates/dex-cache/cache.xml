@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\fc56908cdc9ad4e2d73034f147ed220bace1ec91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_753ad0596142782b723a457bfd2d1143afa74401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\d037d47eea047eff50eb425b9201478f486b41bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d4dbb4d6badd7217a310451480453b9c956e092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\989dece7bd050be80e43190cc1cbc39e5a1f07c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01faaf57f1aa5dfc9309e6c2eee7a0a83a37f7a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\9b1ab31e1c5bac5a15e3330b264de29f01991373\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_51a0173b7091bb9c0ea333ab1e0af0937566cf5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\87ef3579d6ead4beb5f5f819aad32f85cd043f02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c60edf136dc39ad0346593ed29ec4bf070955e02\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\985cbe44e61a9501f6e9fbd55657c8254e1605cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_bdae11cfa2565e0cffe30754bcae8badc597bf40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\2ab3fe8bf347e7e1c11bc76368e2b9b1cb81f3da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_fd2245ade61a668d0e3be2ccccc42362f649dc16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\854b71cf9093df14e6610b0eaebc02e7a7d6a8f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_779eec0ef719a6349b912055ada1b32666dce9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\7833f347ddffcc451bd89f026d1a44d3887b5ee5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_1d55380fa0908f027d36dc0ae40400531fd77984.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\e6bfa653dd8becff5e4e8daa1c050e80319effef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a988cb735e3868d2e0fadeecd09d782317946bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\fc530ce615af719b70b014e42f316ae2c88c1175\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_d4a4c4728f24bd0d5dd79e5083faf3e88ad454e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\4da4a8927c586c8245c83da23c3d4528134b05a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0fb547c3ec95a69e1fecf8dafc6392031bac06a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\2105d55098c136c244be138e3602b02f55a604d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cfb290bfadcae2efa26f1c1088a8688498236ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\080651faa9136fb1055cdaca18ad9841af44f7b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93137855cd5f307bfbd83892d7184f48707afee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\c8eca99146fb5bed004039766332e8bd91a3a7a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27623e813dde8305ef2de4d9406a6ad6d87d552f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\ae679670d003558e5898e6ea35745af1ec78e26e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06f3e91fddbd7539fe61f0423fe8a0da1accd91b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\dd9c24ca23bb7248115495afae80fdccc96e98df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_858fcc45776000f3fe00da88347a2a1745703551\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\252249da45dcbe947b98338c836ddccc4d662a7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_e24f81c676cdece28611e69ad260e9b42026f538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\86bef90ce361b06ecb28b9dda5538906c48a95a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_b2ff72b4bbb29dbec4c3ca637d257fe6fb3e8a6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\f03261bb7c83221de942e5fb38fa8e003306654a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd4ee376e653f20c5c9df723fc3ba1381b18e77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\3d9ecf7cf65cd74c686bf53c587210e483563a9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_bba691e174d01826b5af9ac72d3ab0b82c827c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\0dccefd01a539d825f390bbd44956a34977d3910\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_b0466fd1dd8f235d585edfa86dbcd6249554597c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\be991da7ddd572e6ac34efdb30c8ff6aa6172de9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_1c90805954633bff0f92bc8538c3be1c6297f4b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\2cd79beb9cd33465132b9e2a121be5731cc4d82e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_6fd1b43b73b3130cabc7a0c6a2025d62f8194a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\b6ea7a9c67f0b21be24dcc98566f817c4fcdc709\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_d67424cedc5e98f99be5ce15ff48b85c34975207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\15f7b450fea4f4e9547d029222ec97c12bf12bfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_9df57aa15a012c52a37df20ef9239865e7aab89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\4115a372f63e2f57c0eeb42aa1594e3421adec8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_57d1720bb6f28ea8d8d2636897e921060a25f6d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_86b29a71da0aabe1a7bdae5d57d79e26558689e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\68208979a97b7abecc096a67900d20262201946e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_dab0b37c51d06dddc38a561bf36161070700e8dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\eadcf7539d735882047d37ee13dbc5e33f616e8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_41f0c1d8df8854020a6d0b5a45a9ef55d47359c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\aa6e2071c7d4cd7fb1f261a8dc2b36e6800ba295\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_2482a77091979f665a4be55b185eeac6875b80f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.8\77bbfe240e437ecb396d982afa0d3bd4f9090ba7\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.8_0a11e3d0fa39b694279c30fb801b1e5f2970fbc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\989dece7bd050be80e43190cc1cbc39e5a1f07c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_01faaf57f1aa5dfc9309e6c2eee7a0a83a37f7a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c733c7c7ebdb28be57cc53b2a1c507b1ca0f4cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\d037d47eea047eff50eb425b9201478f486b41bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_6d4dbb4d6badd7217a310451480453b9c956e092.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\9b1ab31e1c5bac5a15e3330b264de29f01991373\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51a0173b7091bb9c0ea333ab1e0af0937566cf5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\fadb2c9e1023057bd533a3ec03afbfd618b12bf7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50f2c67d176c5723ff8717a999f04d2320d77934\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\87ef3579d6ead4beb5f5f819aad32f85cd043f02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_c60edf136dc39ad0346593ed29ec4bf070955e02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\985cbe44e61a9501f6e9fbd55657c8254e1605cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdae11cfa2565e0cffe30754bcae8badc597bf40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\854b71cf9093df14e6610b0eaebc02e7a7d6a8f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_779eec0ef719a6349b912055ada1b32666dce9ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\2ab3fe8bf347e7e1c11bc76368e2b9b1cb81f3da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd2245ade61a668d0e3be2ccccc42362f649dc16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4a717ee1348f3c9791e27045f95545bc463487f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0514c22c6cc6b9f631e5f7a7247c958fd50bdbc0">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_feb7367273b4151bfbeb0bcdb734ed6047cdf08d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\7833f347ddffcc451bd89f026d1a44d3887b5ee5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d55380fa0908f027d36dc0ae40400531fd77984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\873e32c93379ddca2771c9b3c4514cdad8a737fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce13a6fdfd98cc38856df894bebddb67e7a26325\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\fc530ce615af719b70b014e42f316ae2c88c1175\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4a4c4728f24bd0d5dd79e5083faf3e88ad454e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\2105d55098c136c244be138e3602b02f55a604d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_5cfb290bfadcae2efa26f1c1088a8688498236ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\4da4a8927c586c8245c83da23c3d4528134b05a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_c0fb547c3ec95a69e1fecf8dafc6392031bac06a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\e6bfa653dd8becff5e4e8daa1c050e80319effef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_6a988cb735e3868d2e0fadeecd09d782317946bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\c8eca99146fb5bed004039766332e8bd91a3a7a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_27623e813dde8305ef2de4d9406a6ad6d87d552f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\eadcf7539d735882047d37ee13dbc5e33f616e8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41f0c1d8df8854020a6d0b5a45a9ef55d47359c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\ae679670d003558e5898e6ea35745af1ec78e26e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_06f3e91fddbd7539fe61f0423fe8a0da1accd91b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_86b29a71da0aabe1a7bdae5d57d79e26558689e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\873e32c93379ddca2771c9b3c4514cdad8a737fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_ce13a6fdfd98cc38856df894bebddb67e7a26325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\080651faa9136fb1055cdaca18ad9841af44f7b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_93137855cd5f307bfbd83892d7184f48707afee4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\252249da45dcbe947b98338c836ddccc4d662a7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e24f81c676cdece28611e69ad260e9b42026f538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\15f7b450fea4f4e9547d029222ec97c12bf12bfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9df57aa15a012c52a37df20ef9239865e7aab89a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\86bef90ce361b06ecb28b9dda5538906c48a95a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2ff72b4bbb29dbec4c3ca637d257fe6fb3e8a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\b6ea7a9c67f0b21be24dcc98566f817c4fcdc709\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d67424cedc5e98f99be5ce15ff48b85c34975207\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\dd9c24ca23bb7248115495afae80fdccc96e98df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_858fcc45776000f3fe00da88347a2a1745703551.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\3d9ecf7cf65cd74c686bf53c587210e483563a9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bba691e174d01826b5af9ac72d3ab0b82c827c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\0dccefd01a539d825f390bbd44956a34977d3910\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0466fd1dd8f235d585edfa86dbcd6249554597c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\f03261bb7c83221de942e5fb38fa8e003306654a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_bd4ee376e653f20c5c9df723fc3ba1381b18e77c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\4115a372f63e2f57c0eeb42aa1594e3421adec8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57d1720bb6f28ea8d8d2636897e921060a25f6d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\2cd79beb9cd33465132b9e2a121be5731cc4d82e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fd1b43b73b3130cabc7a0c6a2025d62f8194a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\fadb2c9e1023057bd533a3ec03afbfd618b12bf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_50f2c67d176c5723ff8717a999f04d2320d77934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.8\77bbfe240e437ecb396d982afa0d3bd4f9090ba7\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_0a11e3d0fa39b694279c30fb801b1e5f2970fbc9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\be991da7ddd572e6ac34efdb30c8ff6aa6172de9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c90805954633bff0f92bc8538c3be1c6297f4b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\68208979a97b7abecc096a67900d20262201946e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dab0b37c51d06dddc38a561bf36161070700e8dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c733c7c7ebdb28be57cc53b2a1c507b1ca0f4cca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacky\.android\build-cache\aa6e2071c7d4cd7fb1f261a8dc2b36e6800ba295\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2482a77091979f665a4be55b185eeac6875b80f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jacky\.android\build-cache\fc56908cdc9ad4e2d73034f147ed220bace1ec91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Jacky\Desktop\School\uber clone\app\build\intermediates\pre-dexed\debug\classes_753ad0596142782b723a457bfd2d1143afa74401.jar" />
+    </item>
+
+</items>
